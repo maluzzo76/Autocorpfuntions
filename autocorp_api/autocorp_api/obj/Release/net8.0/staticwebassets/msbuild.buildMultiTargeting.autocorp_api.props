@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\autocorp_api.props" />
+</Project>

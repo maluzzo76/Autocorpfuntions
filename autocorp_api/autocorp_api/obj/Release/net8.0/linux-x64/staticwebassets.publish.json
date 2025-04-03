@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JMMXhus9nmiEMxvz3U06gM8vkj+49US0dbfEnmU0KhQ=",
+  "Source": "autocorp_api",
+  "BasePath": "_content/autocorp_api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
