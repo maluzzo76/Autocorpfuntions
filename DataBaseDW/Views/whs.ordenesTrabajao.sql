@@ -102,11 +102,6 @@ AS
 select * from whs.factTareas with(nolock)
 go
 
-create view whs.TicketActividades
-AS
-select * from stg.ActivityLogs with(nolock)
-go
-
 create view whs.Tickets
 AS
 select 
@@ -215,4 +210,3 @@ case
 from whs.factTickets t 
 left join whs.dimEstados e on e.id = t.estadoId
 GO
-

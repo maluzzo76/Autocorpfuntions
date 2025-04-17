@@ -46,6 +46,44 @@ CREATE TABLE stg.Conversaciones
 )
 go;
 
+CREATE  TABLE stg.ActivityLogs 
+(
+    performed_at               NVARCHAR(MAX),
+    ticket_id                  NVARCHAR(MAX),
+    performer_type             NVARCHAR(MAX),
+    performer_id               NVARCHAR(MAX),
+    activity_note_id           NVARCHAR(MAX),
+    activity_note_type         NVARCHAR(MAX),
+    activity_status            NVARCHAR(MAX),
+    activity_requester_id      NVARCHAR(MAX),
+    activity_source            NVARCHAR(MAX),
+    activity_group             NVARCHAR(MAX),
+    activity_priority          NVARCHAR(MAX),
+    activity_new_ticket        NVARCHAR(MAX),
+    activity_automation_type   NVARCHAR(MAX),
+    activity_automation_rule   NVARCHAR(MAX),
+    activity_added_tags        NVARCHAR(MAX),  
+    activity_agent_id          NVARCHAR(MAX),
+    activity_ID_eFleet         NVARCHAR(MAX),
+    activity_Obs_eFleet        NVARCHAR(MAX),
+    activity_send_email_agent_ids NVARCHAR(MAX),
+    activity_Patente           NVARCHAR(MAX),
+    activity_ticket_type       NVARCHAR(MAX),
+    activity_description       NVARCHAR(MAX),
+    activity_subject           NVARCHAR(MAX),
+    activity_Kilometraje       NVARCHAR(MAX),
+    activity_Generar_OT_eFleet NVARCHAR(MAX),
+    activity_due_by            NVARCHAR(MAX),
+    activity_Fecha_turno       NVARCHAR(MAX),    
+    activity_association_action             NVARCHAR(MAX),
+    activity_association_type               NVARCHAR(MAX),
+    activity_association_source_ticket_id   NVARCHAR(MAX),
+    activity_association_target_ticket_id   NVARCHAR(MAX),
+    activity_deleted            NVARCHAR(MAX),
+    activity_Fecha_primer_turno NVARCHAR(MAX),
+    activity_product            NVARCHAR(MAX)
+);
+
 -----------------------------------------------------------
 -- Crea las tablas de dimensiones
 -----------------------------------------------------------
@@ -243,7 +281,44 @@ LEFT JOIN stg.Conversaciones c ON c.id = t.codigo
 WHERE 
 c.id IS NULL and 
 t.fechaAlta > CAST(DATEADD(day, -90, GETDATE()) AS DATETIME)
+GO
 
+CREATE TABLE whs.FactActivityLogs (
+    Fecha NVARCHAR(50),
+    ticketId BIGINT,
+    performerType NVARCHAR(50),
+    performerId BIGINT,
+    activityNoteId BIGINT,
+    activityNoteType INT,
+    activityStatus NVARCHAR(100),
+    activityRequesterId BIGINT,
+    activitySource INT,
+    activityGroup NVARCHAR(100),
+    activityPriority INT,
+    activityNew_ticket BIT,
+    activityAutomationType INT,
+    activityAutomationRule NVARCHAR(200),
+    activityAddedTags NVARCHAR(MAX),  -- lista de tags como texto
+    activityAgentId BIGINT,
+    activity_ID_eFleet NVARCHAR(50),
+    activity_Obs_eFleet NVARCHAR(200),
+    activity_send_email_agent_id NVARCHAR(MAX),
+    activity_Patente NVARCHAR(50),
+    activity_ticket_type NVARCHAR(100),
+    activity_description NVARCHAR(MAX),
+    activity_subject NVARCHAR(500),
+    activity_Kilometraje NVARCHAR(50),
+    activity_Generar_OT_eFleet NVARCHAR(10),
+    activity_due_by DATETIME,
+    activity_Fecha_turno DATETIME,    
+    activity_association_action NVARCHAR(50),
+    activity_association_type NVARCHAR(50),
+    activity_association_source_ticket_id   BIGINT,
+    activity_association_target_ticket_id   BIGINT,
+    activity_deleted BIT,
+    activity_Fecha_primer_turno DATETIME,
+    activity_product NVARCHAR(100)
+);
 
 -----------------------------------------------------------
 -- Mantenimiento de DB

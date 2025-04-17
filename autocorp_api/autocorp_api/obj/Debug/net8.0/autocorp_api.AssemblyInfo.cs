@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("autocorp_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dcf40b6e7ed13ea707cba7461f83f3cf3267cf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("autocorp_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("autocorp_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

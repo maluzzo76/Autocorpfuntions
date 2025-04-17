@@ -2313,11 +2313,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Alusoft\\OneDrive - Alusoft\\Source\\Desarrollo BI\\Autocorp\\Source\\Api\\autocorp_api\\autocorp_api\\autocorp_api.csproj",
+      "projectUniqueName": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\AutocorpSA\\Autocorpfuntions\\autocorp_api\\autocorp_api\\autocorp_api.csproj",
       "projectName": "autocorp_api",
-      "projectPath": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Alusoft\\OneDrive - Alusoft\\Source\\Desarrollo BI\\Autocorp\\Source\\Api\\autocorp_api\\autocorp_api\\autocorp_api.csproj",
+      "projectPath": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\AutocorpSA\\Autocorpfuntions\\autocorp_api\\autocorp_api\\autocorp_api.csproj",
       "packagesPath": "C:\\Users\\MarianoRobertoAluzzo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Alusoft\\OneDrive - Alusoft\\Source\\Desarrollo BI\\Autocorp\\Source\\Api\\autocorp_api\\autocorp_api\\obj\\",
+      "outputPath": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\AutocorpSA\\Autocorpfuntions\\autocorp_api\\autocorp_api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

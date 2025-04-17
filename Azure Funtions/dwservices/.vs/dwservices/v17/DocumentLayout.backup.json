@@ -1,14 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\Autocorpfuntions\\Azure Funtions\\dwservices\\",
+  "WorkspaceRootPath": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\AutocorpSA\\Autocorpfuntions\\Azure Funtions\\dwservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D04254C-2896-4B3C-926F-56401339CC81}|dwservices\\dwservices.csproj|c:\\users\\marianorobertoaluzzo\\documents\\source\\project\\autocorpfuntions\\azure funtions\\dwservices\\dwservices\\importaractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D04254C-2896-4B3C-926F-56401339CC81}|dwservices\\dwservices.csproj|solutionrelative:dwservices\\importaractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8B13400-4A60-43A8-9DCD-54C014FDDCDB}|..\\AutocorpDwFN\\AutocorpDwFN.csproj|c:\\users\\marianorobertoaluzzo\\documents\\source\\project\\autocorpsa\\autocorpfuntions\\azure funtions\\autocorpdwfn\\importartickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D04254C-2896-4B3C-926F-56401339CC81}|dwservices\\dwservices.csproj|c:\\users\\marianorobertoaluzzo\\documents\\source\\project\\autocorpfuntions\\azure funtions\\dwservices\\dwservices\\importarconversaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D04254C-2896-4B3C-926F-56401339CC81}|dwservices\\dwservices.csproj|solutionrelative:dwservices\\importarconversaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8B13400-4A60-43A8-9DCD-54C014FDDCDB}|..\\AutocorpDwFN\\AutocorpDwFN.csproj|c:\\users\\marianorobertoaluzzo\\documents\\source\\project\\autocorpsa\\autocorpfuntions\\azure funtions\\autocorpdwfn\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,37 +53,39 @@
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 242,
-          "SelectedChildIndex": 1,
-          "Children": [
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ImportarConversaciones.cs",
-              "DocumentMoniker": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\Autocorpfuntions\\Azure Funtions\\dwservices\\dwservices\\ImportarConversaciones.cs",
-              "RelativeDocumentMoniker": "dwservices\\ImportarConversaciones.cs",
-              "ToolTip": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\Autocorpfuntions\\Azure Funtions\\dwservices\\dwservices\\ImportarConversaciones.cs",
-              "RelativeToolTip": "dwservices\\ImportarConversaciones.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowEIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T15:35:16.591Z",
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\AutocorpSA\\Autocorpfuntions\\Azure Funtions\\AutocorpDwFN\\host.json",
+              "RelativeDocumentMoniker": "..\\AutocorpDwFN\\host.json",
+              "ToolTip": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\AutocorpSA\\Autocorpfuntions\\Azure Funtions\\AutocorpDwFN\\host.json",
+              "RelativeToolTip": "..\\AutocorpDwFN\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T19:12:45.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ImportarActivity.cs",
-              "DocumentMoniker": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\Autocorpfuntions\\Azure Funtions\\dwservices\\dwservices\\ImportarActivity.cs",
-              "RelativeDocumentMoniker": "dwservices\\ImportarActivity.cs",
-              "ToolTip": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\Autocorpfuntions\\Azure Funtions\\dwservices\\dwservices\\ImportarActivity.cs*",
-              "RelativeToolTip": "dwservices\\ImportarActivity.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAC4AAAAzAAAAAAAAAA==",
+              "Title": "ImportarTickets.cs",
+              "DocumentMoniker": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\AutocorpSA\\Autocorpfuntions\\Azure Funtions\\AutocorpDwFN\\ImportarTickets.cs",
+              "RelativeDocumentMoniker": "..\\AutocorpDwFN\\ImportarTickets.cs",
+              "ToolTip": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\AutocorpSA\\Autocorpfuntions\\Azure Funtions\\AutocorpDwFN\\ImportarTickets.cs*",
+              "RelativeToolTip": "..\\AutocorpDwFN\\ImportarTickets.cs*",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAnwIUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T14:08:06.751Z",
+              "WhenOpened": "2025-04-17T17:05:27.313Z",
               "EditorCaption": ""
             }
           ]

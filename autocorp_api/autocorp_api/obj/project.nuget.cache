@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "snmp9b4Rg7c=",
+  "dgSpecHash": "JujEIJ02XIU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Alusoft\\OneDrive - Alusoft\\Source\\Desarrollo BI\\Autocorp\\Source\\Api\\autocorp_api\\autocorp_api\\autocorp_api.csproj",
+  "projectFilePath": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\AutocorpSA\\Autocorpfuntions\\autocorp_api\\autocorp_api\\autocorp_api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MarianoRobertoAluzzo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\MarianoRobertoAluzzo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

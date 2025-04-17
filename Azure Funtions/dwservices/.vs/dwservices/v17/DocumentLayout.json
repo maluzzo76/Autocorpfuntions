@@ -1,16 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\Autocorpfuntions\\Azure Funtions\\dwservices\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2D04254C-2896-4B3C-926F-56401339CC81}|dwservices\\dwservices.csproj|c:\\users\\marianorobertoaluzzo\\documents\\source\\project\\autocorpfuntions\\azure funtions\\dwservices\\dwservices\\importaractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D04254C-2896-4B3C-926F-56401339CC81}|dwservices\\dwservices.csproj|solutionrelative:dwservices\\importaractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D04254C-2896-4B3C-926F-56401339CC81}|dwservices\\dwservices.csproj|c:\\users\\marianorobertoaluzzo\\documents\\source\\project\\autocorpfuntions\\azure funtions\\dwservices\\dwservices\\importarconversaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D04254C-2896-4B3C-926F-56401339CC81}|dwservices\\dwservices.csproj|solutionrelative:dwservices\\importarconversaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\AutocorpSA\\Autocorpfuntions\\Azure Funtions\\dwservices\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -55,38 +46,14 @@
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 242,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ImportarConversaciones.cs",
-              "DocumentMoniker": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\Autocorpfuntions\\Azure Funtions\\dwservices\\dwservices\\ImportarConversaciones.cs",
-              "RelativeDocumentMoniker": "dwservices\\ImportarConversaciones.cs",
-              "ToolTip": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\Autocorpfuntions\\Azure Funtions\\dwservices\\dwservices\\ImportarConversaciones.cs",
-              "RelativeToolTip": "dwservices\\ImportarConversaciones.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowEIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T15:35:16.591Z",
-              "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ImportarActivity.cs",
-              "DocumentMoniker": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\Autocorpfuntions\\Azure Funtions\\dwservices\\dwservices\\ImportarActivity.cs",
-              "RelativeDocumentMoniker": "dwservices\\ImportarActivity.cs",
-              "ToolTip": "C:\\Users\\MarianoRobertoAluzzo\\Documents\\Source\\Project\\Autocorpfuntions\\Azure Funtions\\dwservices\\dwservices\\ImportarActivity.cs",
-              "RelativeToolTip": "dwservices\\ImportarActivity.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T14:08:06.751Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             }
           ]
         }

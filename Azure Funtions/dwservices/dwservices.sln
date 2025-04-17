@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dwservices", "dwservices\dwservices.csproj", "{2D04254C-2896-4B3C-926F-56401339CC81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutocorpDwFN", "..\AutocorpDwFN\AutocorpDwFN.csproj", "{E8B13400-4A60-43A8-9DCD-54C014FDDCDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2D04254C-2896-4B3C-926F-56401339CC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D04254C-2896-4B3C-926F-56401339CC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D04254C-2896-4B3C-926F-56401339CC81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8B13400-4A60-43A8-9DCD-54C014FDDCDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8B13400-4A60-43A8-9DCD-54C014FDDCDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8B13400-4A60-43A8-9DCD-54C014FDDCDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8B13400-4A60-43A8-9DCD-54C014FDDCDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
